@@ -1,0 +1,23 @@
+@charset "UTF-8";   /* Compatibilidade com acentuação */
+
+body
+            {   
+                background-color: rgb(216, 183, 198);
+                font-family: Arial;
+                font-style: italic;
+            }
+
+            h1
+            {
+                color: brown;
+                font-family: 'Gill Sans MT';
+                font-size: 50px;
+            }
+
+            h2{
+                color: blue;
+            }
+
+            p{
+                text-align: justify;
+            }

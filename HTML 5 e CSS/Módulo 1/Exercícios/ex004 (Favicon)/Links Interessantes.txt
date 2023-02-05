@@ -1,0 +1,6 @@
+IconArchive: https://iconarchive.com/
+
+favicon.cc: https://www.favicon.cc/
+
+favicon.io: https://favicon.io/
+
